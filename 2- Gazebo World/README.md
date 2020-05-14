@@ -17,3 +17,5 @@ The simulation world folder has the following directory structure:
     │   ├── myworld_2robots.world
     ├── CMakeLists.txt                 # Link libraries 
     └──                              
+
+![](Myworld.JPG)
